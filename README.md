@@ -1,0 +1,2 @@
+# kiosk
+vending machine kiosk
