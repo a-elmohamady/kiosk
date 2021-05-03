@@ -2,10 +2,11 @@
 vending machine kiosk
 **Flutter  embedded system application With python and orange pi **
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Z9iTdXMg_Ew/0.jpg)](https://www.youtube.com/watch?v=Z9iTdXMg_Ew)
 
-# kiosk
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Z9iTdXMg_Ew"><img src="https://img.youtube.com/vi/Z9iTdXMg_Ew/mqdefault.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
 
 
